@@ -56,7 +56,7 @@ export default function Weather() {
           </a>
           and is
           <a
-            href="https://github.com/Vikki-Proki/weather_app"
+            href="https://github.com/Vikki412/weather-react/"
             target="_blank"
             rel="noreferrer"
           >
@@ -64,7 +64,7 @@ export default function Weather() {
           </a>
           and
           <a
-            href="https://weather-app-vikki-proki.netlify.app/"
+            href="https://main--stalwart-moxie-9fdf99.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
